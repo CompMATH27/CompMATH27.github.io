@@ -1,0 +1,26 @@
+body {
+  background-image: url("http://allswalls.com/images/bamboo-wallpaper-20.jpg");
+  background-repeat: no-repeat;
+    background-size: cover;
+    background-color: green;
+}
+h1 {
+    font-style: oblique;
+    color: darkturquoise;
+    font-size: 36px;
+}
+h5 {
+    font-style: italic;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
+p{
+    font-size: 24px;
+    font-family: Comic Sans MS, cursive; 
+    font-weight:bold;
+    color: aliceblue;
+}
+h2{
+    font=size: 24px;
+}
