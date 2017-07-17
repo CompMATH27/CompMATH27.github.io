@@ -1,7 +1,7 @@
 body {
   background-image: url("http://allswalls.com/images/bamboo-wallpaper-20.jpg");
   background-repeat: no-repeat;
-    background-size: 2300px 4200px;
+    background-size: cover;
     background-color: green;
 }
 h1 {
